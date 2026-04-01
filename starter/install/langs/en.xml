@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MUST be in install/langs/ — NOT in data/langs/ -->
+<resources name="en" flag="gb" title="English">
+    <string name="_bx_vendorstarter_title"><![CDATA[Vendor Starter]]></string>
+    <string name="_bx_vendorstarter_description"><![CDATA[A starter module for UNA CMS 15.0.0-B]]></string>
+    <string name="_bx_vendorstarter_page_home"><![CDATA[Starter Home]]></string>
+    <string name="_bx_vendorstarter_page_manage"><![CDATA[Manage Entries]]></string>
+    <string name="_bx_vendorstarter_block_entries"><![CDATA[Entries]]></string>
+    <string name="_bx_vendorstarter_menu_home"><![CDATA[Starter]]></string>
+    <string name="_bx_vendorstarter_menu_manage"><![CDATA[Manage]]></string>
+    <string name="_bx_vendorstarter_entry_title"><![CDATA[Title]]></string>
+    <string name="_bx_vendorstarter_entry_text"><![CDATA[Content]]></string>
+    <string name="_bx_vendorstarter_entry_added"><![CDATA[Date Added]]></string>
+    <string name="_bx_vendorstarter_txt_no_entries"><![CDATA[No entries found.]]></string>
+    <string name="_bx_vendorstarter_acl_view"><![CDATA[View entries]]></string>
+    <string name="_bx_vendorstarter_acl_add"><![CDATA[Add entry]]></string>
+    <string name="_bx_vendorstarter_acl_edit"><![CDATA[Edit entry]]></string>
+    <string name="_bx_vendorstarter_acl_delete"><![CDATA[Delete entry]]></string>
+    <string name="_bx_vendorstarter_option_per_page"><![CDATA[Entries per page]]></string>
+    <string name="_bx_vendorstarter_options"><![CDATA[Starter Settings]]></string>
+</resources>
